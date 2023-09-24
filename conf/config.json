@@ -1,0 +1,10 @@
+{
+    "inner" :{
+        "broker":"",
+        "port":1883
+    },
+    "cloud":{
+        "address":"",
+        "protcol":""
+    }
+}
